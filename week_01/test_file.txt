@@ -1,0 +1,11 @@
+# This is a text file for coding.
+# All phrases with a '#' in start must be ignored.
+# This ficctional example show the score of students in a exam.
+# All data is separated by tabular
+student	scoreMath	scoreBio	scoreGrammar	totalScore
+Thompson	85	78	92	255
+Jackson	90  81	76  247
+Marie	72	88	85	245
+Alice	95	91	89	275
+John	68	75	70	213
+Clarice	82	94	88	264
